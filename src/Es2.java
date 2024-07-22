@@ -13,7 +13,7 @@ public class Es2 {
         String citta= scanner.nextLine();
         System.out.println(nome + " " + cognome + " " + citta);
 
-
+        System.out.println(citta + " " + cognome + " " + nome);
     }
 
 }
