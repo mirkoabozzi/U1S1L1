@@ -9,7 +9,7 @@ public class Es3 {
     }
 
     public static double perimetroRettangolo(double lato1, double lato2) {
-        return lato1 + lato2;
+        return (lato1 + lato2) * 2;
     }
 
     public static int pariDispari(int num) {
